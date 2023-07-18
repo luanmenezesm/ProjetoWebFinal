@@ -2,11 +2,14 @@
 > Este repositório contém o código-fonte e os recursos relacionados ao projeto Educa, uma plataforma online gratuita que visa tornar o estudo do Ensino Médio acessível a todos os estudantes. Com o objetivo de ajudar na preparação para o Enem e outros vestibulares, o Educa oferece uma ampla gama de materiais educacionais abrangentes.
 
 Seja bem-vindo(a) ao repositório do **Projeto Web** chamado **Educa** proporcionado pela [**Kick**](https://soukick.com.br/), uma jornada tecnológica e socioemocional totalmente sem custo para jovens de escolas públicas que querem viabilizar um possível primeiro emprego na área de tecnologia! Aqui você encontrará uma plataforma gratuita e abrangente para auxiliar estudantes do Ensino Médio na preparação para o Enem e outros vestibulares.
+- Este projeto foi desenvolvido por **Luan Menezes**, um estudante de programação de 17 anos de idade, que reside na cidade de **Ribeirão Preto, São Paulo**. Desde os meus 13 anos, sempre fui muito apaixonado por tecnologia e tudo que a envolve, e, ao longo desses anos, tenho dedicado muito o meu tempo e esforço para aprimorar os meus conhecimentos e habilidades dentro da área de programação. Abaixo está o link para o meu **Instagram** caso seja de interesse dar uma olhada!
+<br><a href="https://www.instagram.com/luanmenezesm/"><img src="https://img.shields.io/badge/Meu Instagram-000000?style=for-the-badge&logo=Instagram&logoColor=white" height="25"></a>
 
 ## Índice do Projeto
 - **Página Inicial** - Localizado na pasta raiz do projeto, nomeado como "index.html". [Ir para a sessão da Página Inicial](#página-inicial)
 - **Cadastro** - Localizado na pasta **html/** dentro da pasta raiz do projeto, nomeado como "cadastro.html". [Ir para a sessão da página de Cadastro](#cadastro)
 - **Dentro da Plataforma (Dashboard)** - Localizado na pasta **html/** dentro da pasta raiz do projeto, nomeado como "DentroDaPlataforma(dashboard).html". [Ir para a sessão da página do Dashboard](#dashboard)
+- **Dentro da Plataforma (Meu Desempenho)** - Localizado na pasta **html/** dentro da pasta raiz do projeto, nomeado como "DentroDaPlataforma(meu desempenho).html". [Ir para a sessão da página "Meu Desempenho"](#meu-desempenho)
 
 ## Descrição do Projeto
 O **Educa** é uma plataforma online que visa democratizar o acesso ao estudo do Ensino Médio, fornecendo recursos educacionais completos para todos os estudantes interessados. Nossa missão é garantir que todos os alunos tenham igualdade de oportunidades educacionais, independentemente de sua localização geográfica, recursos financeiros ou qualquer outra barreira.
@@ -32,3 +35,6 @@ A página de cadastro permite que os usuários se inscrevam na plataforma. É ne
 
 #### Dashboard
 O **Dashboard** é a página inicial após o login, onde os usuários têm uma visão geral personalizada de seu desempenho e atividades recentes. Aqui, eles podem encontrar questões para resoluções de exercícios e recomendações de estudo com base em seu progresso anterior (desempenho). Também podem encontrar destaques e dicas de estudos para a melhor compreensão.
+
+#### Meu Desempenho
+A página "Meu Desempenho" exibe informações detalhadas sobre o progresso acadêmico do usuário. De uma forma estática (pois, nesse projeto não é possível utilizar o backend), nós proporcionamos as funcionalidades de filtragem e visualização do desempenho geral de acordo com elas. Teoricamente, são utilizados para fornecer uma visão clara e abrangente do desempenho em diferentes disciplinas e áreas de conhecimento.
