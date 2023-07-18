@@ -5,6 +5,8 @@ Seja bem-vindo(a) ao repositório do **Projeto Web** chamado **Educa** proporcio
 
 ## Índice do Projeto
 - **Página Inicial** - Localizado na pasta raiz do projeto, nomeado como "index.html". [Ir para a sessão da Página Inicial](#página-inicial)
+- **Cadastro** - Localizado na pasta **html/** dentro da pasta raiz do projeto, nomeado como "cadastro.html". [Ir para a sessão da página de Cadastro](#cadastro)
+- **Dentro da Plataforma (Dashboard)** - Localizado na pasta **html/** dentro da pasta raiz do projeto, nomeado como "DentroDaPlataforma(dashboard).html". [Ir para a sessão da página do Dashboard](#dashboard)
 
 ## Descrição do Projeto
 O **Educa** é uma plataforma online que visa democratizar o acesso ao estudo do Ensino Médio, fornecendo recursos educacionais completos para todos os estudantes interessados. Nossa missão é garantir que todos os alunos tenham igualdade de oportunidades educacionais, independentemente de sua localização geográfica, recursos financeiros ou qualquer outra barreira.
@@ -19,8 +21,14 @@ A adaptação de uma interface complexa e recursos para diferentes tamanhos de t
 Trabalhei arduamente para garantir que a versão mobile do Educa fornecesse uma experiência intuitiva e eficaz, mesmo com a necessidade de remover algumas funcionalidades específicas. Buscamos manter a essência do projeto e garantir que os recursos mais essenciais e relevantes estivessem disponíveis para todos os usuários, independentemente do dispositivo que estivessem usando.
 
 ## Páginas Principais
+
 ### Página Inicial
-A página inicial do Educa é o ponto de entrada para os usuários, oferecendo uma visão geral atraente e informativa da plataforma. Ela é projetada para fornecer aos visitantes uma compreensão imediata dos recursos e benefícios do Educa.
+A **página inicial** do **Educa** é o ponto de entrada para os usuários, oferecendo uma visão geral atraente e informativa da plataforma. Ela é projetada para fornecer aos visitantes uma compreensão imediata dos recursos e benefícios do Educa.
 
 ### Cadastro
-A página de cadastro permite que os usuários se inscrevam na plataforma. É necessário fornecer informações básicas, como nome, e-mail e senha, para criar uma conta personalizada. Também implementamos recursos de validação de dados para garantir a precisão das informações fornecidas pelos usuários.
+A página de cadastro permite que os usuários se inscrevam na plataforma. É necessário fornecer informações básicas, como e-mail e senha, para criar uma conta personalizada. Também implementamos recursos de validação de dados para garantir a precisão das informações fornecidas pelos usuários.
+
+### Dentro da Plataforma
+
+#### Dashboard
+O **Dashboard** é a página inicial após o login, onde os usuários têm uma visão geral personalizada de seu desempenho e atividades recentes. Aqui, eles podem encontrar questões para resoluções de exercícios e recomendações de estudo com base em seu progresso anterior (desempenho). Também podem encontrar destaques e dicas de estudos para a melhor compreensão.
