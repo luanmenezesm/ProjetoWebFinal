@@ -50,3 +50,6 @@ A página "Questões" é um recurso valioso para a prática e aprimoramento dos 
 
 ### Página de Exibição de Livros
 A página de exibição de livros oferece aos usuários a oportunidade de explorar uma coleção de todos os livros existentes e que estão disponíveis para baixar gratuitamente dentro da Internet, assim respaldando todo o conhecimento e cultura, além de tornar esse conhecimento e cultura disponíveis para qualquer pessoa no mundo. Preservamos livros, jornais, quadrinhos, revistas e muito mais, reunindo esses materiais de várias bibliotecas em um só lugar. Também possível filtrar as buscas, especificando o Nome do Livro, Autor, ISBN (padrão numérico criado com o objetivo de fornecer uma espécie de “RG” para publicações monográficas, como livros, artigos e apostilas), além de selecionar o Idioma, Conteúdo, Tipo de Arquivo e as opções mais relevantes.
+
+## Agradecimento
+Agradeço por ter chegado até aqui! Sua visita ao repositório do meu Projeto Web chamado **Educa** é muito apreciada. Espero que as informações fornecidas tenham sido úteis e tenham despertado seu interesse no trabalho desenvolvido.
