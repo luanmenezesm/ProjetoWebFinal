@@ -74,6 +74,7 @@ button_confirm.addEventListener('click', () => {
   if(alternativas[4].classList.contains('selected')) {
     button_verifed.style.display = 'flex'
     button_verifed.style.backgroundColor = '#CDFEE1'
+    button_verifed.style.color = 'black'
     text_verifed.innerHTML = `Parabéns! Resposta correta.`
     img_verifed.src = '../Assets/svg/check.svg'
   } else if(
@@ -83,11 +84,13 @@ button_confirm.addEventListener('click', () => {
     alternativas[3].classList.contains('selected')){
     button_verifed.style.display = 'flex'
     button_verifed.style.backgroundColor = '#F89999'
+    button_verifed.style.color = 'black'
     text_verifed.innerHTML = `Ops! A alternativa certa é a letra <b>E</b>.`
     img_verifed.src = '../Assets/img/X_2.png'
   } else {
     button_verifed.style.display = 'flex'
     button_verifed.style.backgroundColor = '#f8ed99'
+    button_verifed.style.color = 'black'
     text_verifed.innerHTML = `Parece que você não selecionou nenhuma alternativa!`
     img_verifed.src = '../Assets/img/X_2.png'
   }
